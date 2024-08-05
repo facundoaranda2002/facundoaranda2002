@@ -23,9 +23,9 @@ Egresado de la carrera "Tecnicatura Universitaria en Programación" de la Univer
 
 ## Contacto
 
-  <a href="facundoaranda67@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-facundoaranda67@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="facundoaranda67@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-facundoaranda67@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/facundoaranda2002"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-facundoaranda2002-black?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/facundo-aranda-479210252"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Facundo Aranda-black?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/facundo-aranda-479210252"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Facundo Aranda-blue?style=flat-square&logo=linkedin"></a>
 
 ## Estadisticas
 

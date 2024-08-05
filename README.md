@@ -1,6 +1,6 @@
 # ¡Hola! Soy Facundo Aranda
 
-- 🌱 Egresado de la carrera "Tecnicatura Universitaria en Programación" de la Universidad Tecnológica Nacional, Facultad Regional Avellaneda.
+Egresado de la carrera "Tecnicatura Universitaria en Programación" de la Universidad Tecnológica Nacional, Facultad Regional Avellaneda.
 
 ## Tecnologías
 

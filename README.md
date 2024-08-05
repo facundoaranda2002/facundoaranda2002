@@ -11,7 +11,7 @@ Recibido de la carrera "Tecnicatura Universitaria en Programación" de la Univer
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c-original)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp-original)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
   ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
